@@ -4,7 +4,7 @@ Modified version of ThreatClassic2 for displaying reasonably accurate estimates 
 
 ## Install
  - Press the green code button and click download zip
- - Rename ThreatClassic2-master to ThreatClassic2 and drag it into your addon folder
+ - Rename ThreatClassic2-main to ThreatClassic2 and drag it into your addon folder
 
 ## FAQ
 
